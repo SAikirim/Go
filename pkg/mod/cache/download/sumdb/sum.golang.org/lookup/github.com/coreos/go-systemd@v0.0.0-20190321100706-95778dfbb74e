@@ -3,7 +3,7 @@ github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e h1:Wf6HqHfScWJN9
 github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 
 go.sum database tree
-10303744
-OVzZF8tqnPZMwY2bZ8eDYpWVErAUhMqF0BDGEueh2JQ=
+10314021
+HOP++m2OFZdiPVY4MZcdviUbl/jtyY7DsSfBUPW7eBM=
 
-— sum.golang.org Az3grsco4qlL4RZc8cIgI7FJqPRQNo3wzhD8/o7gCzVbp1/AuUrA2EVXSBs5lSFyVzIxuUCDJ8TMp5jo9l5LDMBUggA=
+— sum.golang.org Az3grjwg1EB6wVBSn6WNHySPV2H4cayehlXfbN7/WVx0Qs36IUgZ5X2bbDovePfmL57cK71G5on2qsno9Y9E+POmBwU=
